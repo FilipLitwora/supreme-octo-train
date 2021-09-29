@@ -59,10 +59,6 @@
                 {
                     "username": "Accusal",
                     "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
-                },
-                {
-                    "username": "Extinguish",
-                    "uuid": "7046aa16ebd14c26b9f63b2e66620da9"
                 }
             ]
         },
@@ -166,14 +162,12 @@
                     "username": "7evan7",
                     "uuid": "787dbb1201294eba9bce57902ddd2bcc"
                 }
-
             ]
         },
         {
             "rank": "Trial Mod",
             "color": "#5555FF",
-            "users": [
-            ]
+            "users": []
         }
     ]
 }

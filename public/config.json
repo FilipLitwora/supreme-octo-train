@@ -15,16 +15,26 @@
             ]
         },
         {
+            "rank": "Manager",
+            "color": "#AA0000",
+            "users": [
+                {
+                    "username": "_Real",
+                    "uuid": "dda58615-8553-45fe-ba50-61c3f87e1461"
+                },
+                {
+                    "username": "Conjur",
+                    "uuid": "8b70388d-6dfb-4b15-8db3-c26f39adc0f3"
+                }
+            ]
+        },
+        {
             "rank": "Developer",
             "color": "#31C3C3",
             "users": [
                 {
                     "username": "WMB",
                     "uuid": "93f49872-68d7-425d-b194-65130b2ab43e"
-                },
-                {
-                    "username": "_Real",
-                    "uuid": "dda58615-8553-45fe-ba50-61c3f87e1461"
                 },
                 {
                     "username": "Javlin",
@@ -52,10 +62,6 @@
             "rank": "Platform Admin",
             "color": "#FF5555",
             "users": [
-                {
-                    "username": "Conjur",
-                    "uuid": "8b70388d-6dfb-4b15-8db3-c26f39adc0f3"
-                },
                 {
                     "username": "Accusal",
                     "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"

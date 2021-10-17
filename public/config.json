@@ -112,6 +112,11 @@
             "rank": "Senior Mod",
             "color": "#5555FF",
             "users": [
+                      {
+                    "username": "Wrexzy",
+                    "uuid": "1cf04cf0-54b9-4f94-b5b0-4a8a2d2f6865"
+                },
+              
                 {
                     "username": "Shaya",
                     "uuid": "946f76fadac2493da5143560f8a11bee"
@@ -140,11 +145,6 @@
             "rank": "Mod",
             "color": "#AA00AA",
             "users": [
-                {
-                    "username": "Wrexzy",
-                    "uuid": "1cf04cf0-54b9-4f94-b5b0-4a8a2d2f6865"
-                },
-              
                 {
                     "username": "e_ic",
                     "uuid": "5a33c5fcf1454fcea61b596fb05872b6"

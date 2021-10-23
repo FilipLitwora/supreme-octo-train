@@ -163,7 +163,12 @@
         {
             "rank": "Trial Mod",
             "color": "#5555FF",
-            "users": []
+            "users": [
+              {
+                    "username": "Praxctice",
+                    "uuid": "256a382b-3cca-4687-892d-be48e0184480"
+                }
+            ]
         }
     ]
 }

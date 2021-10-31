@@ -157,6 +157,10 @@
             "rank": "Trial Mod",
             "color": "#5555FF",
             "users": [
+                      {
+                    "username": "Crent",
+                    "uuid": "1e2dadb2-28e6-446b-82fd-d3fa05ee9ed5"
+                },
               {
                     "username": "Praxctice",
                     "uuid": "256a382b-3cca-4687-892d-be48e0184480"

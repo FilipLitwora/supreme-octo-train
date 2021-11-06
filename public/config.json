@@ -77,6 +77,10 @@
                     "uuid": "9fda9689-a151-43e2-b2ff-ddd22c2bcca8"
                 },
                 {
+                    "username": "SenseiCurv",
+                    "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
+                },
+                {
                     "username": "MasterDa",
                     "uuid": "f4a40dea96b0492e91e758ce0906ca47"
                 }
@@ -87,10 +91,6 @@
             "color": "#FF5555",
             "users": [
                 {
-                    "username": "SenseiCurv",
-                    "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
-                },
-                                {
                     "username": "Arison",
                     "uuid": "772a6170-5a12-4874-b077-8efd8fb496fa"
                 },

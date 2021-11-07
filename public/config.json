@@ -54,10 +54,6 @@
             "rank": "Platform Admin",
             "color": "#FF5555",
             "users": [
-                {
-                    "username": "Accusal",
-                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
-                }
             ]
         },
         {
@@ -81,8 +77,8 @@
                     "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
                 },
                 {
-                    "username": "MasterDa",
-                    "uuid": "f4a40dea96b0492e91e758ce0906ca47"
+                    "username": "Accusal",
+                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
                 }
             ]
         },
@@ -97,6 +93,10 @@
                 {
                     "username": "iusehuzuni",
                     "uuid": "f660e28e-838b-4472-aecb-7e867e6a197d"
+                }
+                {
+                    "username": "MasterDa",
+                    "uuid": "f4a40dea96b0492e91e758ce0906ca47"
                 }
             ]
         },

@@ -127,10 +127,7 @@
             "rank": "Mod",
             "color": "#AA00AA",
             "users": [
-                {
-                    "username": "e_ic",
-                    "uuid": "5a33c5fcf1454fcea61b596fb05872b6"
-                },
+             
                 {
                     "username": "tzotic",
                     "uuid": "c3f39262bf4f4d6e888477368a67e084"
@@ -139,14 +136,15 @@
                     "username": "yqnnis",
                     "uuid": "c8d45489-b087-4232-a2c9-9f7cc584395f"
                 },
+                   {
+                    "username": "mvskc",
+                    "uuid": "8bc8d91c-d39c-488c-a86e-8d8a7e171187"
+                },
                     {
                     "username": "Ciaran",
                     "uuid": "9dd2cd63-16c7-46bb-8b67-035c8b7431df"
-                },
-                {
-                    "username": "Zoyr",
-                    "uuid": "a762891fa45e4f1ca2835866ef663cca"
                 }
+               
             ]
         },
         {
@@ -154,9 +152,10 @@
             "color": "#5555FF",
             "users": [
                       {
-                    "username": "Crent",
-                    "uuid": "1e2dadb2-28e6-446b-82fd-d3fa05ee9ed5"
+                    "username": "Kemet",
+                    "uuid": "0d5da641-50a9-47d0-976e-ec1f89adb885"
                 },
+                 
               {
                     "username": "Praxctice",
                     "uuid": "256a382b-3cca-4687-892d-be48e0184480"

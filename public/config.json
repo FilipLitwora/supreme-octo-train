@@ -33,36 +33,43 @@
             "color": "#31C3C3",
             "users": [
                 {
-                    "username": "ca33r0n1",
-                    "uuid": "f05bbc02-c61f-4495-a930-982f62c133a3"
-                }
-                {
-                    "username": "utf_",
-                    "uuid": "0cd620fc-744c-45e3-b844-c7094841ce66"
+                    "username": "PurePlugins",
+                    "uuid": "5c47bff9-8645-4356-beb3-8b0924b59dc1"
                 },
                 {
                     "username": "L1LLIAN",
                     "uuid": "88352a08-321e-48d0-83aa-1dca5e803ce2"
                 },
                 {
-                    "username": "PurePlugins",
-                    "uuid": "5c47bff9-8645-4356-beb3-8b0924b59dc1"
+                    "username": "utf_",
+                    "uuid": "0cd620fc-744c-45e3-b844-c7094841ce66"
+                },
+                {
+                    "username": "WMB",
+                    "uuid": "93f49872-68d7-425d-b194-65130b2ab43e"
                 }
             ]
         },
         {
             "rank": "Platform Admin",
             "color": "#FF5555",
-            "users": [
-            ]
+            "users": []
         },
         {
             "rank": "Senior Admin",
             "color": "#FF5555",
             "users": [
                 {
+                    "username": "Accusal",
+                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
+                },
+                {
                     "username": "UsingTheGear",
                     "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
+                },
+                {
+                    "username": "samves",
+                    "uuid": "e21e880256e6401f807eb96a28b9e672"
                 },
                 {
                     "username": "Frame",
@@ -71,15 +78,6 @@
                 {
                     "username": "SenseiCurv",
                     "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
-                },
-                {
-                    "username": "Accusal",
-                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
-                },
-                
-                {
-                    "username": "samves",
-                    "uuid": "e21e880256e6401f807eb96a28b9e672"
                 }
             ]
         },
@@ -101,11 +99,10 @@
             "rank": "Senior Mod",
             "color": "#5555FF",
             "users": [
-                      {
+                {
                     "username": "Wrexzy",
                     "uuid": "1cf04cf0-54b9-4f94-b5b0-4a8a2d2f6865"
                 },
-              
                 {
                     "username": "Shaya",
                     "uuid": "946f76fadac2493da5143560f8a11bee"
@@ -116,48 +113,43 @@
             "rank": "Mod+",
             "color": "#AA00AA",
             "users": [
-               
                 {
                     "username": "Lastro",
                     "uuid": "8b0594c5-eea0-4705-88a7-378b486faf60"
                 }
-
             ]
         },
         {
             "rank": "Mod",
             "color": "#AA00AA",
             "users": [
-             
                 {
                     "username": "tzotic",
                     "uuid": "c3f39262bf4f4d6e888477368a67e084"
                 },
-                   {
+                {
                     "username": "yqnnis",
                     "uuid": "c8d45489-b087-4232-a2c9-9f7cc584395f"
                 },
-                   {
+                {
                     "username": "mvskc",
                     "uuid": "8bc8d91c-d39c-488c-a86e-8d8a7e171187"
                 },
-                    {
+                {
                     "username": "Ciaran",
                     "uuid": "9dd2cd63-16c7-46bb-8b67-035c8b7431df"
                 }
-               
             ]
         },
         {
             "rank": "Trial Mod",
             "color": "#5555FF",
             "users": [
-                      {
+                {
                     "username": "Kemet",
                     "uuid": "0d5da641-50a9-47d0-976e-ec1f89adb885"
                 },
-                 
-              {
+                {
                     "username": "Praxctice",
                     "uuid": "256a382b-3cca-4687-892d-be48e0184480"
                 }

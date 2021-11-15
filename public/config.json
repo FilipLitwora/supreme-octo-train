@@ -61,16 +61,8 @@
             "color": "#FF5555",
             "users": [
                 {
-                    "username": "Accusal",
-                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
-                },
-                {
                     "username": "UsingTheGear",
                     "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
-                },
-                {
-                    "username": "samves",
-                    "uuid": "e21e880256e6401f807eb96a28b9e672"
                 },
                 {
                     "username": "Frame",
@@ -79,6 +71,15 @@
                 {
                     "username": "SenseiCurv",
                     "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
+                },
+                {
+                    "username": "Accusal",
+                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
+                },
+                
+                {
+                    "username": "samves",
+                    "uuid": "e21e880256e6401f807eb96a28b9e672"
                 }
             ]
         },

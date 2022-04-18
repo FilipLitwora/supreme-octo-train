@@ -85,10 +85,7 @@
             "rank": "Admin",
             "color": "#FF5555",
             "users": [
-                {
-                    "username": "Arison",
-                    "uuid": "772a6170-5a12-4874-b077-8efd8fb496fa"
-                },
+            
                 {
                     "username": "Ciaran",
                     "uuid": "9dd2cd63-16c7-46bb-8b67-035c8b7431df"

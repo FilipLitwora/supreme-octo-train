@@ -39,11 +39,8 @@
                 {
                     "username": "utf_",
                     "uuid": "0cd620fc-744c-45e3-b844-c7094841ce66"
-                },
-                {
-                    "username": "L1LLIAN",
-                    "uuid": "88352a08-321e-48d0-83aa-1dca5e803ce2"
                 }
+            
             ]
         },
         {
@@ -55,10 +52,7 @@
             "rank": "Senior Admin",
             "color": "#FF5555",
             "users": [
-                {
-                    "username": "Accusal",
-                    "uuid": "7df5377f4d5d4b72953a6d1bc1e3b0dc"
-                },
+       
                 {
                     "username": "UsingTheGear",
                     "uuid": "cf8e4902f0bb4b5f86b7bd1f04303d2c"
@@ -67,14 +61,8 @@
                     "username": "samves",
                     "uuid": "e21e880256e6401f807eb96a28b9e672"
                 },
-                {
-                    "username": "Frame",
-                    "uuid": "9fda9689-a151-43e2-b2ff-ddd22c2bcca8"
-                },
-                {
-                    "username": "Brawn",
-                    "uuid": "90165133-fa69-46e1-800e-36bfe5a680c3"
-                },
+
+           
                 {
                     "username": "SenseiCurv",
                     "uuid": "28cba1254d65410d9f2389e2cc02b6cf"
@@ -86,10 +74,7 @@
             "color": "#FF5555",
             "users": [
             
-                {
-                    "username": "Ciaran",
-                    "uuid": "9dd2cd63-16c7-46bb-8b67-035c8b7431df"
-                },
+     
                 {
                     "username": "iusehuzuni",
                     "uuid": "f660e28e-838b-4472-aecb-7e867e6a197d"
